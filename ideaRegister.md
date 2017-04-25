@@ -1,3 +1,4 @@
 IDEA注册register
 
-http://idea.iteblog.com/key.php
+1. 网址： http://idea.lanyus.com/   获取注册码
+2. http://idea.iteblog.com/key.php
